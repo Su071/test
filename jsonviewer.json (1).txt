@@ -1,0 +1,284 @@
+{
+  "dataCrowdSourcingFeature.crowdSourcedDataTypeEnabledMap": {
+    "lootrunTaskLocations": "true",
+    "npcLocations": "true",
+    "professionNodeLocations": "true",
+    "professionCraftingStationLocations": "true"
+  },
+  "gameBarsOverlayFeature.healthBarOverlay.flip": false,
+  "gameBarsOverlayFeature.healthBarOverlay.healthTexture": "b",
+  "gameBarsOverlayFeature.healthBarOverlay.textShadow": "outline",
+  "gameBarsOverlayFeature.manaBankBarOverlay.manaTexture": "b",
+  "gameBarsOverlayFeature.manaBarOverlay.manaTexture": "b",
+  "gammabrightFeature.gammabrightEnabled": true,
+  "horseMountFeature.playWhistle": false,
+  "lowHealthVignetteFeature.animationSpeed": 1.5,
+  "lowHealthVignetteFeature.healthVignetteEffect": "static",
+  "lowHealthVignetteFeature.lowHealthPercentage": 32,
+  "mainMapFeature.customPois": [
+    {
+      "name": "INGOT SAND",
+      "color": "#ffffff",
+      "icon": "flag",
+      "visibility": "default",
+      "location": {
+        "x": 1471,
+        "y": null,
+        "z": -1574
+      }
+    },
+    {
+      "name": "boss time",
+      "color": "#ffffff",
+      "icon": "flag",
+      "visibility": "default",
+      "location": {
+        "x": -189,
+        "y": null,
+        "z": -1324
+      }
+    },
+    {
+      "name": "slime",
+      "color": "#ffffff",
+      "icon": "flag",
+      "visibility": "default",
+      "location": {
+        "x": 1176,
+        "y": null,
+        "z": -2026
+      }
+    },
+    {
+      "name": "iron mine",
+      "color": "#ffffff",
+      "icon": "diamond",
+      "visibility": "default",
+      "location": {
+        "x": 1061,
+        "y": null,
+        "z": -1258
+      }
+    },
+    {
+      "name": "gold",
+      "color": "#ffffff",
+      "icon": "flag",
+      "visibility": "default",
+      "location": {
+        "x": 475,
+        "y": null,
+        "z": -1135
+      }
+    },
+    {
+      "name": "gold",
+      "color": "#ffffff",
+      "icon": "flag",
+      "visibility": "default",
+      "location": {
+        "x": 272,
+        "y": null,
+        "z": -1132
+      }
+    },
+    {
+      "name": "gold",
+      "color": "#ffffff",
+      "icon": "flag",
+      "visibility": "default",
+      "location": {
+        "x": 409,
+        "y": 67,
+        "z": -1271
+      }
+    },
+    {
+      "name": "silver",
+      "color": "#ffffff",
+      "icon": "flag",
+      "visibility": "default",
+      "location": {
+        "x": -989,
+        "y": 40,
+        "z": -3808
+      }
+    },
+    {
+      "name": "earthpit?",
+      "color": "#ffffff",
+      "icon": "flag",
+      "visibility": "default",
+      "location": {
+        "x": -2010,
+        "y": null,
+        "z": -4887
+      }
+    },
+    {
+      "name": "iron",
+      "color": "#ffffff",
+      "icon": "flag",
+      "visibility": "default",
+      "location": {
+        "x": -1502,
+        "y": 69,
+        "z": -4365
+      }
+    },
+    {
+      "name": "Gold Best",
+      "color": "#ffffff",
+      "icon": "flag",
+      "visibility": "default",
+      "location": {
+        "x": 713,
+        "y": null,
+        "z": -1278
+      }
+    },
+    {
+      "name": "GG",
+      "color": "#ffffff",
+      "icon": "flag",
+      "visibility": "default",
+      "location": {
+        "x": -1219,
+        "y": 43,
+        "z": -5311
+      }
+    },
+    {
+      "name": "creeper",
+      "color": "#ffffff",
+      "icon": "flag",
+      "visibility": "default",
+      "location": {
+        "x": -853,
+        "y": null,
+        "z": -1211
+      }
+    },
+    {
+      "name": "GOLD??",
+      "color": "#ffffff",
+      "icon": "flag",
+      "visibility": "default",
+      "location": {
+        "x": 53,
+        "y": null,
+        "z": -3925
+      }
+    },
+    {
+      "name": "NEED HEAL",
+      "color": "#ffffff",
+      "icon": "fireball",
+      "visibility": "default",
+      "location": {
+        "x": -136,
+        "y": null,
+        "z": -333
+      }
+    },
+    {
+      "name": "bobs tomb",
+      "color": "#ffffff",
+      "icon": "flag",
+      "visibility": "default",
+      "location": {
+        "x": 252,
+        "y": null,
+        "z": -760
+      }
+    },
+    {
+      "name": "wedyf",
+      "color": "#ffffff",
+      "icon": "sign",
+      "visibility": "default",
+      "location": {
+        "x": 659,
+        "y": null,
+        "z": -2046
+      }
+    },
+    {
+      "name": "The BlackSmith",
+      "color": "#ffffff",
+      "icon": "sign",
+      "visibility": "default",
+      "location": {
+        "x": 724,
+        "y": null,
+        "z": -1467
+      }
+    },
+    {
+      "name": "jungle entrance",
+      "color": "#ffffff",
+      "icon": "sign",
+      "visibility": "default",
+      "location": {
+        "x": -585,
+        "y": 67,
+        "z": -611
+      }
+    },
+    {
+      "name": "epilogue",
+      "color": "#ffffff",
+      "icon": "star",
+      "visibility": "default",
+      "location": {
+        "x": -305,
+        "y": null,
+        "z": -4101
+      }
+    },
+    {
+      "name": "lootrun",
+      "color": "#ffffff",
+      "icon": "chestT1",
+      "visibility": "default",
+      "location": {
+        "x": -103,
+        "y": null,
+        "z": -4810
+      }
+    }
+  ],
+  "minimapFeature.minimapOverlay.scale": 1.04338,
+  "telemetryFeature.crashReports": "true",
+  "worldWaypointDistanceFeature.bottomBoundingDistance": 96,
+  "wynntilsContentBookFeature.replaceWynncraftContentBook": false,
+  "wynntils.upfixers": [
+    "custom_poi_visibility",
+    "customCommandKeybindSlashStart",
+    "gameBarOverlayMove",
+    "enumNaming",
+    "customPoiIconEnumBug",
+    "questBookToContentRenamedConfigs",
+    "mapToMainMapRenamedConfigs",
+    "overlayRestructuring",
+    "overlayConfigsIntegration",
+    "customBankQuickJumps",
+    "customBankQuickJumpsBankName"
+  ],
+  "overlayGroups": {
+    "infoBoxFeature.groupedOverlay.infoBoxOverlays.ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "customBarsOverlayFeature.groupedOverlay.customUniversalBarOverlays.ids": [],
+    "customBarsOverlayFeature.groupedOverlay.customHealthBarOverlays.ids": [],
+    "customBarsOverlayFeature.groupedOverlay.customManaBarOverlays.ids": [],
+    "customBarsOverlayFeature.groupedOverlay.customExperienceBarOverlays.ids": [],
+    "customBarsOverlayFeature.groupedOverlay.customBubbleBarOverlays.ids": []
+  }
+}
